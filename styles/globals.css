@@ -5,3 +5,7 @@ body{
     margin: 0;
 }
 
+/* icon base style */
+.icon{
+    background-image: url("/iconall.png");
+}
